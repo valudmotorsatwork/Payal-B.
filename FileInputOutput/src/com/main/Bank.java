@@ -2,7 +2,7 @@ package com.main;
 
 import java.io.*;
 import com.dao.GetSet;
-import com.inputoutput.example.Manipulate;
+import inputoutput.Manipulate;
 
 public class Bank {
 	public static void main(String[] args) {
