@@ -42,7 +42,7 @@ import java.util.Scanner;
 	          
 	        }  
 	        
-	        System.out.printf(" %-15s %15s %n " ,arr[i].length(), count );
+	        System.out.printf(" %-15s %15s %n " ,items.get(i).length(), count );
 	        count = 0;
 	        
 	    }
