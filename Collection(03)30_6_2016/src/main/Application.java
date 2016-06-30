@@ -1,4 +1,4 @@
-package mian;
+package main;
 /**
  * Payal Balsetwar
  * Program markLength4 that takes an ArrayList of Strings as a parameter and that 
@@ -6,7 +6,6 @@ package mian;
  */
 import java.util.ArrayList;
 import java.util.Scanner;
-
 
 public class Application {
 
