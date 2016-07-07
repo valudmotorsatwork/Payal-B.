@@ -17,8 +17,7 @@ import java.util.Scanner;
 	    String head2="Occurences";
 	    userInput = userInput.toLowerCase();
 
-	    //userInput = userInput.replaceAll( "\\W", " " );     
-	    //userInput = userInput.replaceAll( "  ", " " );      
+    
 	                                                        
 	                                                        
 	    String[] tokens = userInput.split( " " );

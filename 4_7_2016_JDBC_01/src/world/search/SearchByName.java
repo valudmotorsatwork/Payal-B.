@@ -119,6 +119,7 @@ public class SearchByName extends JFrame implements ActionListener
 		add(tf5);
 		add(btn2);
 		add(btn3);
+	
 		setVisible(true); 
 
 		tf1.setEditable(true);

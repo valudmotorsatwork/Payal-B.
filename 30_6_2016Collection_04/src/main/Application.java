@@ -17,7 +17,8 @@ public class Application {
 		System.out.println("Enter no of integers::");
 		Scanner input1=new Scanner(System.in);
 		int temp=input1.nextInt();
-		System.out.println("Enter the 6 integer values in the list::");
+		System.out.println("Enter the integer values in the list::");
+		
 		
 		for(int i=0;i<temp;i++)
 		{
