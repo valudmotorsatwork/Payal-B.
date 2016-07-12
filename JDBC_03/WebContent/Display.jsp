@@ -15,6 +15,7 @@
 <script src="js/kendo.all.min.js"></script>
 </head>
 <body>
+<h3>Welcome to world table.. <%=session.getAttribute("userName") %></h3>
 	<h3>Country Table</h3>
 	<div class="container">
 		<div class="row">
